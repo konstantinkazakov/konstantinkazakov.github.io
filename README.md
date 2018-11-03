@@ -1,1 +1,1 @@
-# http//konstantinkazakov.github.io
+# http://konstantinkazakov.github.io
